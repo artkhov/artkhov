@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/artemii-khovanskii-a59163114/)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/KhovArt81207)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/hovs_io)
 
 ### Hi there 👋
 Hi there, I'm Artemii, a software engineer with a passion for programming and building awesome tools.
